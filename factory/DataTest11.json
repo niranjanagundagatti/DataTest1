@@ -1,0 +1,9 @@
+{
+	"name": "DataTest11",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4f17970-3295-43a5-97f4-2b75f5de665b",
+		"tenantId": "b9fec68c-c92d-461e-9a97-3d03a0f18b82"
+	}
+}
